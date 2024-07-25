@@ -6,5 +6,3 @@ Learn how to use the JSForce NPM package to easily work with Salesforce data and
 
 To deploy, clone project using VSCode, connect SF to your sandbox (check connection in the terminal with `sf org list`), right click in the `objects\Baseball_Play__e` and deploy source to your target org.
 
-Sincerely,
-Evan K
