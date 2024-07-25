@@ -7,4 +7,4 @@ Learn how to use the JSForce NPM package to easily work with Salesforce data and
 Buckeye Dreamers: I am still updating the Salesforce components related to the demo, this is the last update remaining the other two repos have been updated.  Thanks for your patience.  
 
 Sincerely,
-Evan Kormos
+Evan K
