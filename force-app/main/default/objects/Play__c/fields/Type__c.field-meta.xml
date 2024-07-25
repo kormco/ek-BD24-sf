@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Type__c</fullName>
+    <label>Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Fly Ball</fullName>
+                <default>false</default>
+                <label>Fly Ball</label>
+            </value>
+            <value>
+                <fullName>Ground Ball</fullName>
+                <default>false</default>
+                <label>Ground Ball</label>
+            </value>
+            <value>
+                <fullName>Line Drive</fullName>
+                <default>false</default>
+                <label>Line Drive</label>
+            </value>
+            <value>
+                <fullName>Bunt</fullName>
+                <default>false</default>
+                <label>Bunt</label>
+            </value>
+            <value>
+                <fullName>Batter Out</fullName>
+                <default>false</default>
+                <label>Batter Out</label>
+            </value>
+            <value>
+                <fullName>Picked Off</fullName>
+                <default>false</default>
+                <label>Picked Off</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

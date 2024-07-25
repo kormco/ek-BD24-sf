@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Away_Team__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <label>Away Team</label>
+    <referenceTo>Team__c</referenceTo>
+    <relationshipLabel>Away Games</relationshipLabel>
+    <relationshipName>Away_Games</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
